@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## 欢迎来到 家庭每日用水记录工具
 
-You can use the [editor on GitHub](https://github.com/beni520/WaterFamilyUseRecord/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+在我们日常生活中，经常会用到水资源。例如我们家庭每天需要用水清洗蔬菜，洗衣服，拖地，厨房用水等。合理利用水不但可以节约用水，还能环保。我们可以利用这款应用，记录每天用水的情况，水的用途，使用了多少升的水等信息。我们还可以记录家庭人员的用水偏好和节约用水的方式，帮助我们养成节约用水的好习惯，减少水资源的浪费。
 
-### Markdown
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我们将第一时间为您解答。
 
-```markdown
-Syntax highlighted code block
+### 邮箱地址: zhanghesongyuan7@126.com
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beni520/WaterFamilyUseRecord/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
